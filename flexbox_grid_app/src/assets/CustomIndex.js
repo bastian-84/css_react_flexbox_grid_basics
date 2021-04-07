@@ -45,27 +45,28 @@ return (
                     div4
             '>
                 {/* div 4 */}
+                div4
                 <div className='row r2'>
                     <div className='
                         col-sm-12 
                         col-xs-12 
                         div5
                     '>
-                        div, topics
+                        (div 4 row) <br /> &nbsp; &nbsp; <span>div5:nth-child(1),</span> topics
                     </div>
                     <div className='
                         col-sm-12 
                         col-xs-12 
                         div5
                     '>
-                        div, topics
+                        &nbsp; &nbsp; <span>div5:nth-child(2),</span> topics 
                     </div>
                     <div className='
                         col-sm-12 
                         col-xs-12 
                         div5
                     '>
-                        div, topics
+                        &nbsp; &nbsp; <span>div5:nth-child(3),</span> topics 
                     </div>
                     
                 </div> {/* end row */}
