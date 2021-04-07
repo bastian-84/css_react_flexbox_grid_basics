@@ -45,7 +45,7 @@ return (
                     div4
             '>
                 {/* div 4 */}
-                <div className='row'>
+                <div className='row r2'>
                     <div className='
                         col-sm-12 
                         col-xs-12 

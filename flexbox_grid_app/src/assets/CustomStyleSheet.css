@@ -7,19 +7,28 @@ body {
 
 }
 
-
-
 .container {
-    background: rgba(122,122,244,0.4);
+    background: rgba(122, 122, 244, 0.4);
     /* flexbox */
-   
+
 }
+
+.row {
+    border: solid 2px green;
+}
+
+.r2 {
+    border: solid 1px lime;
+    margin: 6px 0 0 2px;
+}
+
 
 .div1 {
-    background: rgba(122,122,244,0.5);
-  
+    background: rgba(122, 122, 244, 0.5);
+
 }
+
 .div5:nth-child(2) {
-    background: rgba(122,122,244,0.5);
-  
+    background: rgba(122, 122, 244, 0.5);
+
 }
