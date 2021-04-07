@@ -8,7 +8,7 @@ function App() {
 return (
 
 <div>
-<h1>Bereich App.js</h1>
+
 <OwnIndex /> {/* Init own index component */}
 </div>
 );
