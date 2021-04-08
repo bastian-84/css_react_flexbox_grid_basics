@@ -1,6 +1,7 @@
 import React from 'react';
 
-import OwnIndex from './assets/CustomIndex'; // Import own index
+import CustomIndex from './components/CustomIndex'; // Import own index
+import FlexboxGridDocu from './components/FlexboxGridDocu'; // Import own index
 
 
 function App() {
@@ -9,7 +10,8 @@ return (
 
 <div>
 
-<OwnIndex /> {/* Init own index component */}
+{/* <CustomIndex /> */} {/* Init own index component */}
+<FlexboxGridDocu />
 </div>
 );
 }

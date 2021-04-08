@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './CustomStyleSheet.css'; // Import CSS
+import '../assets/CustomStyleSheet.css'; // Import CSS
 
 
 
