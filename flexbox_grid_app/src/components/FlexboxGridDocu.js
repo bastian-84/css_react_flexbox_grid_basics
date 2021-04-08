@@ -16,13 +16,15 @@ return (
 
 <div> {/* ********** react div ********** */}
     {/* ********** HTML area ********** */}
-    <div className='container'>
-        <div className='row'>
-           
-            test
-        </div> {/* end row */}
-
-    </div>  {/* end .container */}
+    <div class="row">
+        <div class="col-xs-12
+                    col-sm-8
+                    col-md-6
+                    col-lg-4
+        ">
+            <div class="box">Responsive</div>
+        </div>
+    </div>
 </div>
 )
 }

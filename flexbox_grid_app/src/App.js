@@ -10,8 +10,8 @@ return (
 
 <div>
 
-{/* <CustomIndex /> */} {/* Init own index component */}
-<FlexboxGridDocu />
+<CustomIndex />  {/* Init own index component */}
+{/* <FlexboxGridDocu /> */}
 </div>
 );
 }
